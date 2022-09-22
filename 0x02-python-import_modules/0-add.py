@@ -1,3 +1,4 @@
 from add_0 import add
-
-print(add(1,3))
+a=1
+b=3
+print(f"{a} + {b} = {add(a,b)}")
