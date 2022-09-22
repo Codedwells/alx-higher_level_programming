@@ -1,2 +1,3 @@
-import add_0
+from add_0 import add
 
+print(add(1,3))
