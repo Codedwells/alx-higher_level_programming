@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from calculator_1 import mul,add,sub,div
 a=10
 b=5
