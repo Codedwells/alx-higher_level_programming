@@ -1,4 +1,7 @@
-from calculator_1 import mul
+from calculator_1 import mul,add,sub,div
 a=10
 b=5
-print(f"{mul(a,b)}")
+print(f"{a}+{b}={add(a,b)}")
+print(f"{a}-{b}={sub(a,b)}")
+print(f"{a}*{b}={mul(a,b)}")
+print(f"{a}/{b}={div(a,b)}")
